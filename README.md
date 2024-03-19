@@ -1,2 +1,2 @@
 # Dont worry
-Visit everythingwillbeok.netlify.app
+Visit everythingsgonnabeok.netlify.app
